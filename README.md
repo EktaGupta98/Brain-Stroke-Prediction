@@ -195,7 +195,7 @@ I selected **0.7** because it provided a better balance between precision and re
 
 The model therefore uses:
 
-```text
+
 Probability >= 0.70 → Stroke Likely
 Probability < 0.70  → Stroke Not Likely
 
